@@ -1,0 +1,14 @@
+{
+  "name": "sass-commons",
+  "version": "1.0.0",
+  "description": "Commonly used SASS variables and mixins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "<Ryan Gray ryan.is.gray@gmail.com>",
+  "license": "WTFPL"
+}
