@@ -1,7 +1,13 @@
 $pad: 20px;
 
-$break-xs: 320px;
-$break-sm: 640px;
-$break-md: 960px;
-$break-lg: 1280px;
-$break-xl: 1600px;
+$break-max-xs: 320px;
+$break-max-sm: 640px;
+$break-max-md: 960px;
+$break-max-lg: 1280px;
+$break-max-xl: 1600px;
+
+$break-min-xs: 0;
+$break-min-sm: 320px;
+$break-min-md: 640px;
+$break-min-lg: 960px;
+$break-min-xl: 1280px;
